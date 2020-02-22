@@ -8,3 +8,10 @@ magic(3)
 
 factorial(12)
 
+g <- function(x,y,z){
+  x*y*z
+}
+
+g(1,2,3)
+
+ls()
